@@ -1,4 +1,4 @@
-baseURL = "http://localhost:8080/"
+baseURL = "https://zbbkeepgoing.github.io/"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "Even - A super concise theme for Hugo"
@@ -175,8 +175,8 @@ copyright = ""            # default: author.name ↓        # 默认为下面配
 
   [params.reward]                                         # 文章打赏
     enable = true
-    wechat = "http://localhost:1313/img/reward/wechat.png"           # 微信二维码
-    alipay = "http://localhost:1313/img/reward/alipay.png"           # 支付宝二维码
+    wechat = "https://zbbkeepgoing.github.io/img/reward/wechat.png"           # 微信二维码
+    alipay = "https://zbbkeepgoing.github.io/img/reward/alipay.png"           # 支付宝二维码
 
   [params.social]                                         # 社交链接
 #    a-email = "mailto:your@email.com"
