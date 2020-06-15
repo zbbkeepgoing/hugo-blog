@@ -1,10 +1,9 @@
 ---
 title: "Syntax Highlighting"
 date: 2020-06-15T13:50:51+08:00
-draft: true
 
 draft: false
-tags: ["preview", "Syntax Highlighting", "tag-5"]
+tags: ["Syntax Highlighting"]
 categories: ["Syntax Highlighting"]
 
 toc: false
