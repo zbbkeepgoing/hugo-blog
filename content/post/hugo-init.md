@@ -15,7 +15,7 @@ autoCollapseToc: true
 
 # Hugo
 
-Hugo是一个用golang实现的的静态网站生成器。简单、易用、高效、易扩展、快速部署。与之类似的有hexo和jelly。
+Hugo是一个用golang实现的的静态网站生成器。简单、易用、高效、易扩展、快速部署。与之类似的有hexo和jelly。目前社区非常火热，所以博主也利用hugo来搭建自己的blog。
 
 ## 安装(windows)
 
